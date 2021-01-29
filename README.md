@@ -8,3 +8,10 @@ Darwin core archives have been emerged as the accepted data sharing standard for
 ### Citation
 
 ### Data Definitions
+
+
+### TODO
+1 - Check DWC to verify that it will upload to GBIF
+2 - Create DWC that includes taxonomic changes
+3 - Add howto to README
+4 - Link to publication
